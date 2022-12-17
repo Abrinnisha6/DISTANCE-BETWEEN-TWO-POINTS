@@ -30,7 +30,7 @@ print("{:.2f}".format (distance))
 ```
 
 ### OUTPUT:
-![](output.pngS)
+![](output.png)
 
 ### RESULT:
 Thus the distance between two points are successfully solved using python programming
